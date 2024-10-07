@@ -1,0 +1,54 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('/img/cinePipochomePag.jpg');  /* Substitua pelo nome real do arquivo */
+    background-size: cover; /* Faz com que a imagem cubra toda a tela */
+    background-position: center; /* Centraliza a imagem no fundo */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    color: white; /* Cor do texto para melhor visibilidade */
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 2.5em;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo preto com 50% de opacidade */
+    padding: 10px; /* Adiciona espaçamento interno */
+}
+
+
+.table-img {
+    width: 100%; /* Ajusta a largura da imagem para a largura da célula */
+    height: auto; /* Mantém a proporção da imagem */
+    max-height: 100px; /* Define uma altura máxima para as imagens */
+    object-fit: contain; /* Faz com que a imagem se ajuste dentro da célula sem distorcer */
+}
+
+
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+    color:white;
+    margin-bottom: 20px;
+}
+
+/* Estilo para os botões */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: red; /* Cor de fundo do botão */
+    color: white; /* Cor do texto */
+    border-radius: 5px; /* Bordas arredondadas */
+    border: none; /* Remove bordas padrão */
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #b22222; /* Cor ao passar o mouse */
+}
