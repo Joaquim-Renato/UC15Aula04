@@ -55,3 +55,9 @@ ______________//________________________________________________
 **Border** (borda) -> existem diferentes estilos 
 
 **Margin** (margem) -> 
+
+
+------
+
+usei o site para os icones das páginas 
+https://www.favicon.cc/
