@@ -47,3 +47,11 @@
    6.6 Aumente o tamanho da fonte dos parágrafos para `20px`.
 
    6.7 Altere a família da fonte de todo o site para **Arial**.
+
+______________//________________________________________________
+
+**Padding** (preenchimento) ->
+
+**Border** (borda) -> existem diferentes estilos 
+
+**Margin** (margem) -> 
