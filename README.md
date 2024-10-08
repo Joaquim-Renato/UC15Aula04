@@ -48,18 +48,19 @@
 
    6.7 Altere a família da fonte de todo o site para **Arial**.
 
-______________//________________________________________________
+---
 
-**Padding** (preenchimento) ->
-
-**Border** (borda) -> existem diferentes estilos 
-
-**Margin** (margem) -> 
+# Introdução CSS
+**• Modelo de caixa (box model).** 
+**• Content (Conteúdo)** 
+**• Padding (Preenchimento)** 
+**• Border (Borda)** 
+**• Margin (Margem)** 
 
 
 ------
-
-usei o site para os icones das páginas 
+## Favicons
+Usei o site para os icones das páginas 
 https://www.favicon.cc/
 
 ---
