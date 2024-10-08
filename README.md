@@ -61,3 +61,7 @@ ______________//________________________________________________
 
 usei o site para os icones das páginas 
 https://www.favicon.cc/
+
+---
+
+O comando `text-decoration: none;` em CSS é usado para remover qualquer decoração aplicada ao texto, como sublinhados, sobrelinhados ou linhas de corte.
