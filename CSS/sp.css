@@ -20,12 +20,30 @@ h1 {
 }
 
 table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 1em;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Largura da tabela */
+    border-collapse: collapse;  /* Remove o espaço entre as células */
+    margin: 20px 0; /* Margem em volta da tabela */
+    font-family: Arial, sans-serif; /* Fonte da tabela */
+    
+   
 }
+th, td {
+    padding: 15px; /* Espaçamento interno das células */
+    text-align: center; /* Alinhamento do textoao centro */
+    border: 2px solid black; /* Borda da célula */
+    color: black; /* Cor da fonte das células (preto) */
+    font-weight: bold; /* Fonte em negrito */
+}
+th {
+    background-color: #B22222; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto do cabeçalho */
+    
+}
+
+tr:hover {
+    background-color: #FF7F7F; /* Cor de fundo ao passar o mouse sobre a linha */
+}
+
 
 .table-img {
     width: 100%; /* Ajusta a largura da imagem para a largura da célula */
