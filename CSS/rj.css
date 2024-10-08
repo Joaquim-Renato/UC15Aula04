@@ -24,6 +24,7 @@ table {
     border-collapse: collapse;  /* Remove o espaço entre as células */
     margin: 20px 0; /* Margem em volta da tabela */
     font-family: Arial, sans-serif; /* Fonte da tabela */
+    background-color: aliceblue;
     
    
 }
